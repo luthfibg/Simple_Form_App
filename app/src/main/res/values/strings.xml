@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Idapenas</string>
+    <string name="text_logo">Idapenas</string>
+    <string name="abbr_logo">Isi Data Kependudukan Nasional</string>
+    <string name="mainTitleText">Isi Data Kependudukan</string>
+    <string name="mainBtnText">Daftar</string>
+    <string name="presentTitle">Detail Data Penduduk</string>
+    <string name="secondBtnText">Cek Data Diri </string>
+    <string name="h_nik">NIK</string>
+    <string name="h_fullName">Nama Lengkap</string>
+    <string name="h_birthPlace">Tempat Lahir</string>
+    <string name="h_birthDate">Tanggal Lahir</string>
+    <string name="h_address">Alamat Lengkap</string>
+    <string name="h_gender">Jenis Kelamin</string>
+    <string name="h_job">Pekerjaan</string>
+    <string name="h_marriageStatus">Status Perkawinan</string>
+    <string name="e_nik_length">NIK tidak boleh kurang dari 16 digit</string>
+    <string name="desc_nik">NIK harus diisi sepanjang 16 digit</string>
+    <string name="desc_help">Idapenas (Isi Data Kependudukan Nasional) adalah sebuah aplikasi pendataan penduduk.
+        Aplikasi ini bersifat lokal dan single user. User menginput data penduduk pada halaman registrasi penduduk,
+        lalu menekan tombol daftar, setelah itu halaman detail penduduk akan muncul dan menampilkan semua data yang sudah diinputkan.
+Terdapat tombol back/kembali dari halaman detail penduduk menuju ke halaman registrasi penduduk
+yang inputan datanya sudah kembali ter-reset (kosong).</string>
+    <string name="desc_fullName">Isi nama lengkap dan pastikan sesuai dengan nama KTP</string>
+    <string name="desc_address">Alamat diisi sesuai di KTP</string>
+    <string name="static_dialog">Data akan di kirim ke sistem Dispendukcapil. Apakah anda akan melanjutkannya?</string>
+    <string name="left_btn">Batal</string>
+    <string name="right_btn">Kirim</string>
+    <string name="defS">value</string>
+    <string-array name="genders">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="jobs">
+        <item>Pegawai Negeri Sipil</item>
+        <item>Pegawai Swasta</item>
+        <item>Pelajar</item>
+        <item>Wiraswasta</item>
+    </string-array>
+    <string-array name="statuses">
+        <item>Belum Kawin</item>
+        <item>Kawin</item>
+    </string-array>
+</resources>
